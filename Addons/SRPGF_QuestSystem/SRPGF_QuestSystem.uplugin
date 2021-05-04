@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SRPGF: Quest System",
+	"Description": "Adds simple code for managing quests in game.",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

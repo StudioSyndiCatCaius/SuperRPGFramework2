@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0",
+	"FriendlyName": "Super RPG Framework",
+	"Description": "A series of assets and systems for easily creating single-player RPGs.",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "StudioSyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "https://docs.google.com/document/d/1fWWd1bYB4qPeLdXVjVlNJoUw8CXiQOMbFixs_ODU4R4/edit",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

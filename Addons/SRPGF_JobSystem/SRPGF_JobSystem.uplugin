@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SRPGF: Job System",
+	"Description": "Adds a DataAsset called a Job. Jobs can be given to Units to modify their stats and skills.",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SRPGF: Affinity System",
+	"Description": "Allows the player to have affnity levels with custom entities. (I.E. Relationship, Bonding, Social Link, Romance)",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
