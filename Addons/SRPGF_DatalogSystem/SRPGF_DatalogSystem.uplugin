@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SRPGF: Datalog System",
+	"Description": "A system for logging and reading data about you game world. (I.E. Codex, Encyclopedia system)",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

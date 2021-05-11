@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "SRPGF: Familiar System",
+	"Description": "Adds a special class of Units called \"Familiars\". These can be linked to your primary units/party members to modify their stats and abilities. (E.G. Persona)",
+	"Category": "Super RPG Framework",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "www.studiosyndicat.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
